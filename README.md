@@ -27,6 +27,10 @@ The imported library `SERM` will show up among the other shape libraries on the 
 
 Just drag the shapes you want to use from the library onto the drawing area.
 
+### Known issues
+
+Currently draw.io seems to lack the ability to display arrows with double lines, which the SERM's author, Prof. Dr. Elmar Sinz, proposed for 1,\* relations. Therefore the `link` style was used, which has a double line but an empty arrowhead. To make the appearance of diagrams consistent, empty arrowheads were used for 0,\* relations as well.
+
 ### Feedback welcome
 
 I've created this library with the "works for me" approach. If you have any suggestions, ideas, etc. that will make it work for you as well, please let me know. I'll see what I can do.
@@ -57,6 +61,10 @@ Die importierte Bibliothek `SERM` wird bei den andern Formenbibliotheken auf der
 ### Verwendung
 
 Einfach die Formen, die verwendet werden Sollen aus der Bibliothek auf die Zeichenfläche ziehen.
+
+### Bekannte Probleme
+
+Derzeit kann draw.io anscheinend Pfeile mit doppelten Linien nicht darstellen, wie es der Autor des SERMs, Prof. Dr. Elmar Sinz, für 1,\*-Beziehungen vorgeschlagen hat. Daher wurde der `link` Style verwendet, der zwar eine doppelte Linie aufweist, aber auch eine unausgefüllte Pfeilspitze. Um das Erscheinungsbild von Diagrammen konsistent zu halten, wurden auch für die 0,\*-Beziehungen leere Pfeilspitzen verwendet.
 
 ### Rückmeldungen erwünscht
 
